@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+background-image:url("night.jpg");
+background-image:no-repeat;
+background-size:cover;
+height:100%;
+width:100%;
+}
+.regs{
+position: relative;
+;
+font-size: 150%;
+left: 10%;
+left: 200px;
+}
+.regsb{
+position: relative;
+left: 200px;
+top: 35px;
+height:60px;
+width:200px;
+background-color: powderblue;
+border-radius: 12px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);color: black;
+padding: 15px 32px;
+font-size: 16px;
+}
+.old{
+position: relative;
+top:250;
+height:20px;
+width:200px;
+left:50%;
+background-color: powderblue;
+border-radius: 12px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);color: black;
+}
+#text{
+background:white;
+color:black;
+font-family:"Times New Roman";
+font-size: 100%;
+border-width:5px;
+border-color:white;
+}
