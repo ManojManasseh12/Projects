@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+body{
+background-image:url("flight.jpg");
+background-image:no-repeat;
+background-size:cover;
+height:100%;
+width:100%;
+}
+.loginb{
+position: relative;
+height:60px;
+width: 100%;
+padding: 100px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+font-size: 200%;
+left: 40px;
+}
+.loginbn
+{
+
+position: relative;
+height:60px;
+width:100px;
+left:100px;
+top:100%;
+background-color: powderblue;
+border-radius: 12px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+text{
+background:white;
+color:black;
+font-family:"Times New Roman";
+font-size: 100%;
+border-width:5px;
+border-color:white;
+}
